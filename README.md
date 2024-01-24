@@ -13,10 +13,10 @@ Este repositório contém arquivos relacionados a um projeto de análise de dado
   - Um relatório detalhado sobre as vendas analisadas no projeto.
 
 - **dados_corrigidos1.sql**
-  - Script SQL para dados do primeiro conjunto.
+  - Script SQL para os dados do primeiro conjunto.
 
 - **dados_corrigidos2.sql**
-  - Script SQL dados do segundo conjunto.
+  - Script SQL para os dados do segundo conjunto.
 
 - **dados_corrigidos_1.json**
   - Arquivo JSON contendo dados corrigidos do primeiro conjunto.
